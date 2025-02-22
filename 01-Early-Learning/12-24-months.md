@@ -7,7 +7,7 @@
 
 ## **2. Gross Motor Development**
 - Support climbing and balancing with low structures (foam blocks, stepping stones).
-- Encourage walking, running, and navigating different surfaces.
+- Encourage walking, running, and navigating different surfaces. 
 - Offer push-pull toys to refine coordination and strength.
 
 ## **3. Fine Motor Skills & Hand-Eye Coordination**
