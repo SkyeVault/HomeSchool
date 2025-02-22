@@ -1,65 +1,72 @@
+# Early Learning (0-3 Years)
 
-# Homeschool Coding & Engineering Curriculum 
+## Montessori Principles for Ages 0-3
+The Montessori approach for infants and toddlers focuses on **independence, sensory exploration, and a prepared environment** that supports natural development. The key principles include:
 
-## Overview
-This repository is designed as a **progressive homeschool program**, spanning from infancy to high school. The curriculum focuses on **computer programming, engineering, mathematics, and reading**, scaling with age to provide a well-rounded understanding of computing and problem-solving while also covering all traditional subjects as required by Pennsylvania homeschooling laws.
+### **1. Respect for the Child**
+- Allow freedom of movement and exploration.
+- Provide child-sized tools and materials to encourage independence.
 
-## Instructional Requirements (Pennsylvania Home Education Program)
-- **Annual Instruction Hours:**
-  - **Elementary Level (K-6):** 180 days or 900 hours per year
-  - **Secondary Level (7-12):** 180 days or 990 hours per year
+### **2. Prepared Environment**
+- Create a safe, accessible space where everything has a purpose.
+- Organize toys and materials on low shelves for easy access.
 
-## Structure
-The repository is organized into different learning stages and subjects:
+### **3. Hands-On Learning**
+- Encourage sensory experiences (touch, sight, sound, taste, smell).
+- Use real objects instead of plastic toys whenever possible.
 
-```
-/01-Early-Learning   ->  Simple interactions, basic commands, visual elements
-/02-Beginner-Coding  ->  Command-line basics, text-based programming, Python intro
-/03-Mathematics      ->  Logical thinking, number patterns, interactive math problems, algebra, geometry
-/04-Reading          ->  Phonics-based reading exercises, comprehension games, literature analysis
-/05-Engineering      ->  Arduino, robotics, circuits, hands-on projects
-/06-Advanced-Coding  ->  Game development, software projects, AI & security concepts
-/07-Science          ->  Physics, chemistry, biology, hands-on experiments
-/08-History          ->  U.S. history, Pennsylvania history, world history, civics
-/09-Geography        ->  Maps, Earth sciences, spatial awareness
-/10-Language Arts    ->  Writing, grammar, storytelling, literature analysis, speech
-/11-Art & Creativity ->  Drawing, music, digital design, creative projects
-/12-Physical Education -> Movement, exercise, coordination, health education, safety education (including fire prevention)
-```
+### **4. Independence & Practical Life Skills**
+- Foster self-care skills: dressing, eating, and cleaning up.
+- Allow toddlers to participate in daily household tasks (pouring, sweeping, washing hands).
 
-## Progression System
-- Each branch of knowledge will have a **completion page and badge of understanding**.
-- Ember can pass **tests, coding challenges, or build projects** to unlock the next levels.
-- The program will **scale with her growth**, introducing new concepts at each stage.
+### **5. Language & Communication**
+- Speak clearly and narrate daily activities.
+- Offer books, songs, and rich verbal interaction.
 
-## Roadmap
-### Phase 1: Initial Setup
-✅ GitHub repository structure 
-✅ README overview 
-⬜ Basic lesson outlines for early stages
-⬜ Draft badge system concept
+## Developmental Objectives (0-3 Years)
+### **0-6 Months**
+- Strengthen grasping reflex and hand-eye coordination.
+- Encourage tummy time for physical development.
+- Introduce high-contrast images and simple sounds.
 
-### Phase 2: First Learning Modules
-⬜ Interactive command-line lessons (typing name, simple inputs)
-⬜ First math challenges (counting, basic operations)
-⬜ Early reading activities (phonics, letter recognition)
-⬜ Basic Arduino blinking LED project
-⬜ Introductory science experiments
-⬜ Basic geography and map recognition
-⬜ Storytelling and letter formation exercises
-⬜ Health and safety awareness lessons
-⬜ Music and movement exercises
+### **6-12 Months**
+- Support crawling, standing, and early walking.
+- Introduce object permanence games (e.g., peekaboo).
+- Offer simple puzzles and stacking toys.
 
-### Phase 3: Interactive & Community Expansion
-⬜ Set up GitHub Pages for tracking progress
-⬜ Automate tests and quizzes
-⬜ Create a guide for parents to use the curriculum
-⬜ Expand with collaborative projects
+### **12-18 Months**
+- Encourage self-feeding and drinking from an open cup.
+- Introduce language through naming objects.
+- Provide activities for fine motor skills (e.g., transferring objects, simple lacing).
 
-## Contributing
-This project will evolve as my child grows, but it can also be shared with other parents looking for a structured homeschool STEM curriculum with **a strong emphasis on coding and engineering while covering all traditional subjects** required by Pennsylvania law. Contributions, ideas, and feedback are always welcome!
+### **18-24 Months**
+- Support early independence (putting on shoes, helping with small tasks).
+- Offer sensory play opportunities (sand, water, playdough).
+- Encourage social interaction through turn-taking activities.
 
----
+### **24-36 Months**
+- Expand self-care routines (brushing teeth, dressing, cleaning up after meals).
+- Introduce counting and early mathematical concepts (sorting, matching, sequencing).
+- Encourage creativity through music, movement, and simple arts & crafts.
 
-### Notes
-This is a **work in progress**, and the focus is still on AWS for now. However, this serves as a placeholder for ideas and expansion in the future!
+## Structured Daily Rhythm (Example)
+| Time        | Activity                             |
+|------------|----------------------------------|
+| 7:00 AM    | Wake-up & morning routine       |
+| 8:00 AM    | Breakfast & practical life skills |
+| 9:00 AM    | Free movement & gross motor play |
+| 10:00 AM   | Sensory activity & exploration  |
+| 11:00 AM   | Outdoor play & nature discovery |
+| 12:00 PM   | Lunch & quiet time             |
+| 1:00 PM    | Nap/rest                        |
+| 3:00 PM    | Fine motor & hands-on learning |
+| 4:00 PM    | Storytime & music activities   |
+| 5:00 PM    | Family time & dinner prep      |
+| 7:00 PM    | Bath & bedtime routine         |
+
+## Resources
+- *The Montessori Toddler* by Simone Davies
+- *Montessori from the Start* by Paula Polk Lillard & Lynn Lillard Jessen
+- Montessori-inspired toys & materials: **grasping beads, stacking rings, wooden blocks, simple puzzles**
+
+This document serves as an evolving guide for **Montessori-based early learning from birth to age 3**. Feel free to adapt the structure based on individual needs!
