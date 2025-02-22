@@ -1,8 +1,8 @@
-# HomeSchool
-# Homeschool Coding & Engineering Curriculum for Ember
+
+# Homeschool Coding & Engineering Curriculum 
 
 ## Overview
-This repository is designed as a **progressive homeschool program** for Ember, spanning from infancy to high school. The curriculum focuses on **computer programming, engineering, mathematics, and reading**, scaling with her age to provide a well-rounded understanding of computing and problem-solving while also covering all traditional subjects as required by Pennsylvania homeschooling laws.
+This repository is designed as a **progressive homeschool program**, spanning from infancy to high school. The curriculum focuses on **computer programming, engineering, mathematics, and reading**, scaling with age to provide a well-rounded understanding of computing and problem-solving while also covering all traditional subjects as required by Pennsylvania homeschooling laws.
 
 ## Instructional Requirements (Pennsylvania Home Education Program)
 - **Annual Instruction Hours:**
@@ -57,7 +57,7 @@ The repository is organized into different learning stages and subjects:
 ⬜ Expand with collaborative projects
 
 ## Contributing
-This project will evolve as Ember grows, but it can also be shared with other parents looking for a structured homeschool STEM curriculum with **a strong emphasis on coding and engineering while covering all traditional subjects** required by Pennsylvania law. Contributions, ideas, and feedback are always welcome!
+This project will evolve as my child grows, but it can also be shared with other parents looking for a structured homeschool STEM curriculum with **a strong emphasis on coding and engineering while covering all traditional subjects** required by Pennsylvania law. Contributions, ideas, and feedback are always welcome!
 
 ---
 
