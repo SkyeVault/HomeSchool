@@ -3,7 +3,7 @@
 ## **1. Encouraging Independence**
 - Allow baby to explore their surroundings freely in a safe environment.
 - Introduce a low shelf with accessible toys to encourage self-selection.
-- Begin transitioning to a floor bed for increased mobility.
+- Begin transitioning to a floor bed for increased mobility. 
 
 ## **2. Gross Motor Development**
 - Support crawling by offering open, obstacle-free spaces.
