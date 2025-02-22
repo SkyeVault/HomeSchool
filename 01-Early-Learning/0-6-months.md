@@ -1,4 +1,4 @@
-# Montessori Concepts for 0-6 Months
+# Montessori Concepts for 0-6 Months 
 
 ## **1. Freedom of Movement**
 - Provide a safe, open space for the baby to move freely.
