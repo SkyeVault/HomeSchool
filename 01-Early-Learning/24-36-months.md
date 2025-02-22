@@ -7,7 +7,7 @@
 - Use a step stool to encourage self-sufficiency in the kitchen and bathroom.
 
 ## **2. Gross Motor Development**
-- Encourage climbing, jumping, running, and balancing activities.
+- Encourage climbing, jumping, running, and balancing activities. 
 - Provide access to ride-on toys, balance beams, and stepping stones.
 - Introduce simple yoga poses and stretching exercises.
 - Allow opportunities for pushing, pulling, and carrying objects to build strength.
