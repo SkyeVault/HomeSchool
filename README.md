@@ -52,15 +52,6 @@ The repository is organized into different learning stages and subjects:
 ⬜ Expand with collaborative projects  
 
 ## Contributing
-This project will evolve as Ember grows, but it can also be shared with other parents looking for a structured homeschool STEM curriculum with **a strong emphasis on coding and engineering while covering all traditional subjects** required by Pennsylvania law.
+This project will evolve, but it can also be shared with other parents looking for a structured homeschool STEM curriculum with **a strong emphasis on coding and engineering while covering all traditional subjects** required by Pennsylvania law.
 
----
-
-### **Updating the README on GitHub**
-Once you've updated the file, run:
-```bash
-cd ~/HomeSchool
-git add README.md
-git commit -m "Fixed README formatting"
-git push origin main
 
