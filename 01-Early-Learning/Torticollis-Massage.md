@@ -9,6 +9,7 @@ Torticollis in infants is a condition where the neck muscles on one side are tig
 - **Clean and Warm Hands:** Wash your hands thoroughly and warm them before beginning.
 - **Use Baby-Safe Oil or Lotion:** If approved by your pediatrician, apply a small amount of baby-safe oil or lotion to your hands for smooth, gentle strokes.
 - **Watch for Cues:** If your baby shows any signs of discomfort or distress, stop the massage immediately.
+- **Only Massage One Side:** Be mindful of blood flow in this area.  One massage one side at a time to protect blood and nerve function.
 
 ## General Massage Tips
 - Use very light, gentle pressure throughout the massage.
