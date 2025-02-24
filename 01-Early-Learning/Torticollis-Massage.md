@@ -13,6 +13,8 @@ Torticollis in infants is a condition where the neck muscles on one side are tig
 
 ## General Massage Tips
 - Use very light, gentle pressure throughout the massage.
+- Consider using a wedge pillow or blankets to prop your baby up.
+- Do not perform massage immediately after eating, wait at least 30 minutes after feeding.
 - Keep your movements slow, deliberate, and soothing.
 - Maintain eye contact and speak softly to help your baby relax.
 - Limit each massage session to a few minutes, gradually increasing duration only if your baby remains comfortable.
