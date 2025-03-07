@@ -1,4 +1,4 @@
-# Homeschool AI System - Raspberry Pi + Rust
+# Homeschool System - Raspberry Pi + Rust
 
 ## Overview
 This guide provides a **step-by-step** method for setting up a **self-contained AI-powered homeschool system** on a **Raspberry Pi**, using **Rust** for the backend and a **long-term stable software stack**. The system will work **offline-first**, with optional internet connectivity for updates.
